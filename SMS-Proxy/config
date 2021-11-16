@@ -3,5 +3,9 @@
     "password": "",
     "recipients": ["phone-number1","phone-number2"],
     "provider":"",
-    "messageTitle":""
+    "messageTitle":"",
+    "ovh_application_key":"",
+    "ovh_application_secret":"",
+    "ovh_consumer_key":"",
+    "ovh_region":""
 }
